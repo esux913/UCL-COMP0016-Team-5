@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## UCL-COMP0016-Team-5
 
 You can use the [editor on GitHub](https://github.com/esux913/UCL-COMP0016-Team-5/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
